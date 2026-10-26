@@ -34,4 +34,4 @@ New repos and updates get posted on [X](https://x.com/drkxbt) first. For anythin
 
 ## License
 
-The text and SVG code in this repo are under [Apache-2.0](LICENSE). The banner, profile picture and logo are my own art and are not covered by that license. The Geist Mono font embedded in the SVGs is under the [SIL Open Font License](OFL.txt). Details in [NOTICE](NOTICE).
+[Apache-2.0](LICENSE)
