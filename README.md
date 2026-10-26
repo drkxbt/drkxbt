@@ -11,12 +11,23 @@
 
 ## Source
 
-Everything I ship is open source. The code lives here on GitHub, and every repo also gets its own page on [drk.vc/source](https://drk.vc/source) with:
+Everything I ship is open source. I came up on the market side, trading and investing on CT since 2021. These days most of my time goes into writing code and researching AI, and whatever I build goes public.
 
-- what it does and the features it ships with
-- screenshots
-- how it works, the stack, and how to run it locally
+### Where things live
 
-Issues and PRs are welcome. If something breaks, open an issue. If you can fix it, send a PR.
+- **GitHub** has the code, the issues and the full history of every repo.
+- **[drk.vc/source](https://drk.vc/source)** has a page for each repo: what it does, the features it ships with, screenshots, how it works, the stack, and how to run it locally.
 
-> The first repo is on its way. Follow on [X](https://x.com/drkxbt) to catch it when it drops.
+### Using the code
+
+Clone it, fork it, take it apart. Each repo states its license in its own `LICENSE` file, so check that before you reuse anything in your own project.
+
+### Contributing
+
+Issues and PRs are welcome on every repo. If something breaks, open an issue and say what you did and what you expected to happen. If you can fix it, send a PR with a short note on what changed and why.
+
+### Staying in the loop
+
+New repos and updates get posted on [X](https://x.com/drkxbt) first. For anything else, my DMs on [Telegram](https://t.me/drk9999) are open.
+
+> The first repo is on its way.
