@@ -31,3 +31,7 @@ Issues and PRs are welcome on every repo. If something breaks, open an issue and
 New repos and updates get posted on [X](https://x.com/drkxbt) first. For anything else, my DMs on [Telegram](https://t.me/drk9999) are open.
 
 > The first repo is on its way.
+
+## License
+
+The text and SVG code in this repo are under [Apache-2.0](LICENSE). The banner, profile picture and logo are my own art and are not covered by that license. The Geist Mono font embedded in the SVGs is under the [SIL Open Font License](OFL.txt). Details in [NOTICE](NOTICE).

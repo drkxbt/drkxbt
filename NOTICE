@@ -1,0 +1,12 @@
+drkxbt profile README
+Copyright 2026 drk
+
+The README text and the SVG markup in assets/ are licensed under the Apache
+License, Version 2.0. See LICENSE.
+
+The SVGs in assets/ embed the Geist Mono typeface by Vercel, in collaboration
+with basement.studio, licensed under the SIL Open Font License 1.1. See OFL.txt.
+
+The artwork embedded in assets/header.svg (the banner and the profile picture)
+and the drk logo mark are drk's personal art. They are not covered by the
+Apache-2.0 license and may not be reused without permission.
