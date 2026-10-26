@@ -13,10 +13,18 @@
 
 Everything I ship is open source. I came up on the market side, trading and investing on CT since 2021. These days most of my time goes into writing code and researching AI, and whatever I build goes public.
 
+### What's out
+
+| Repo | What it is |
+| --- | --- |
+| [charts](https://github.com/drkxbt/charts) | Source. Four canvas charts for markets in plain TypeScript: candles, a price line, order book depth and a market heatmap. |
+| [backtest](https://github.com/drkxbt/backtest) | Engine. Backtests that cannot peek at the future: next-bar fills, real costs, leverage and walk-forward testing, in TypeScript. |
+| [strategy-audit](https://github.com/drkxbt/strategy-audit) | Skill. Lets an AI agent audit a strategy or backtest for overfitting, look-ahead and missing costs, then give a plain verdict. |
+
 ### Where things live
 
 - **GitHub** has the code, the issues and the full history of every repo.
-- **[drk.vc/source](https://drk.vc/source)** has a page for each repo: what it does, the features it ships with, screenshots, how it works, the stack, and how to run it locally.
+- **[drk.vc/source](https://drk.vc/source)** lists them under Source, Engines and Skills, with a page for each repo: what it does, the features it ships with, screenshots, how it works, the stack, and how to run it locally.
 
 ### Using the code
 
@@ -29,8 +37,6 @@ Issues and PRs are welcome on every repo. If something breaks, open an issue and
 ### Staying in the loop
 
 New repos and updates get posted on [X](https://x.com/drkxbt) first. For anything else, my DMs on [Telegram](https://t.me/drk9999) are open.
-
-> The first repo is on its way.
 
 ## License
 
