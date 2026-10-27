@@ -17,6 +17,7 @@ Everything I ship is open source. I came up on the market side, trading and inve
 
 | Repo | What it is |
 | --- | --- |
+| [lightbox](https://github.com/drkxbt/lightbox) | An image viewer for websites. Pictures grow out of their thumbnails and fly back when closed; swipe between them, drag down to close, pinch to zoom. Plain TypeScript, no dependencies. |
 | [motion](https://github.com/drkxbt/motion) | Small animated details for websites: buttons, icons, components and loading states. Plain CSS and TypeScript, no dependencies. |
 | [charts](https://github.com/drkxbt/charts) | Four canvas charts for markets: candles, a price line, order book depth and a market heatmap. Plain TypeScript, no dependencies. |
 
