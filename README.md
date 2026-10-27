@@ -13,6 +13,13 @@
 
 Everything I ship is open source. I came up on the market side, trading and investing on CT since 2021. These days most of my time goes into writing code and researching AI, and whatever I build goes public.
 
+### What's out
+
+| Repo | What it is |
+| --- | --- |
+| [motion](https://github.com/drkxbt/motion) | Small animated details for websites: buttons, icons, components and loading states. Plain CSS and TypeScript, no dependencies. |
+| [charts](https://github.com/drkxbt/charts) | Four canvas charts for markets: candles, a price line, order book depth and a market heatmap. Plain TypeScript, no dependencies. |
+
 ### Where things live
 
 - **GitHub** has the code, the issues and the full history of every repo.
@@ -29,8 +36,6 @@ Issues and PRs are welcome on every repo. If something breaks, open an issue and
 ### Staying in the loop
 
 New repos and updates get posted on [X](https://x.com/drkxbt) first. For anything else, my DMs on [Telegram](https://t.me/drk9999) are open.
-
-> The first repo is on its way.
 
 ## License
 
