@@ -17,6 +17,8 @@ Everything I ship is open source. I came up on the market side, trading and inve
 
 | Repo | What it is |
 | --- | --- |
+| [palette](https://github.com/drkxbt/palette) | A command palette for websites. Ctrl or Cmd+K opens a search over pages, actions and things to copy; it finds by the first letters of words and ignores accents. Plain TypeScript, no dependencies. |
+| [sheet](https://github.com/drkxbt/sheet) | A bottom sheet for websites. It stops at its content's height or where you set, follows the finger, closes with a flick and stays above the keyboard. Plain TypeScript, no dependencies. |
 | [lightbox](https://github.com/drkxbt/lightbox) | An image viewer for websites. Pictures grow out of their thumbnails and fly back when closed; swipe between them, drag down to close, pinch to zoom. Plain TypeScript, no dependencies. |
 | [motion](https://github.com/drkxbt/motion) | Small animated details for websites: buttons, icons, components and loading states. Plain CSS and TypeScript, no dependencies. |
 | [charts](https://github.com/drkxbt/charts) | Four canvas charts for markets: candles, a price line, order book depth and a market heatmap. Plain TypeScript, no dependencies. |
