@@ -19,6 +19,7 @@ The ten newest. Every repo, each with its own page, is on **[drk.vc/source →](
 
 | Repo | What it is |
 | --- | --- |
+| [grid](https://github.com/drkxbt/grid) | A live table for markets. Thousands of rows that scroll smoothly while prices stream in and flash; sort, filter, pin and group columns, star a watchlist, and the rows hold still under the pointer. Plain TypeScript, no dependencies. |
 | [gantt](https://github.com/drkxbt/gantt) | A Gantt chart for websites. Drag, stretch and link tasks, and the work after them moves along; the critical path shows what sets the end date, and everything can be undone. Plain TypeScript, no dependencies. |
 | [photo](https://github.com/drkxbt/photo) | A photo editor for websites. Crop, turn, flip and straighten, adjust the light and colour, draw, write and hide parts of the picture, and undo any of it. Plain TypeScript, no dependencies. |
 | [palette](https://github.com/drkxbt/palette) | A command palette for websites. Ctrl or Cmd+K opens a search over pages, actions and things to copy; it finds by the first letters of words and ignores accents. Plain TypeScript, no dependencies. |
