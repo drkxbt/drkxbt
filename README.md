@@ -19,6 +19,7 @@ The ten newest. Every repo, each with its own page, is on **[drk.vc/source →](
 
 | Repo | What it is |
 | --- | --- |
+| [sharps](https://github.com/drkxbt/sharps) | Where Polymarket's top traders have their money. The markets the best wallets are piling into and at what price, every large trade as it happens, and any wallet's record. Live on drk.vc. Plain TypeScript, no dependencies. |
 | [audiogram](https://github.com/drkxbt/audiogram) | Video clips from your Spaces, made in the browser. Pick the moment on the waveform, time the captions by tapping along, choose a look, and export an MP4 with no upload and no watermark. Plain TypeScript, no dependencies. |
 | [grid](https://github.com/drkxbt/grid) | A live table for markets. Thousands of rows that scroll smoothly while prices stream in and flash; sort, filter, pin and group columns, star a watchlist, and the rows hold still under the pointer. Plain TypeScript, no dependencies. |
 | [gantt](https://github.com/drkxbt/gantt) | A Gantt chart for websites. Drag, stretch and link tasks, and the work after them moves along; the critical path shows what sets the end date, and everything can be undone. Plain TypeScript, no dependencies. |
