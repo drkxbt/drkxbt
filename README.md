@@ -15,8 +15,11 @@ Everything I ship is open source. I came up on the market side, trading and inve
 
 ### What's out
 
+The ten newest. Every repo, each with its own page, is on **[drk.vc/source →](https://drk.vc/source)**
+
 | Repo | What it is |
 | --- | --- |
+| [photo](https://github.com/drkxbt/photo) | A photo editor for websites. Crop, turn, flip and straighten, adjust the light and colour, draw, write and hide parts of the picture, and undo any of it. Plain TypeScript, no dependencies. |
 | [palette](https://github.com/drkxbt/palette) | A command palette for websites. Ctrl or Cmd+K opens a search over pages, actions and things to copy; it finds by the first letters of words and ignores accents. Plain TypeScript, no dependencies. |
 | [sheet](https://github.com/drkxbt/sheet) | A bottom sheet for websites. It stops at its content's height or where you set, follows the finger, closes with a flick and stays above the keyboard. Plain TypeScript, no dependencies. |
 | [lightbox](https://github.com/drkxbt/lightbox) | An image viewer for websites. Pictures grow out of their thumbnails and fly back when closed; swipe between them, drag down to close, pinch to zoom. Plain TypeScript, no dependencies. |
