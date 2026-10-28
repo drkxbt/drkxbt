@@ -19,6 +19,7 @@ The ten newest. Every repo, each with its own page, is on **[drk.vc/source →](
 
 | Repo | What it is |
 | --- | --- |
+| [soundbite](https://github.com/drkxbt/soundbite) | Captioned clips from your Spaces and podcasts. Drag over the moment and Whisper writes out and times every word on your device, nothing uploaded; pick a look and download an MP4. Live on drk.vc. MIT, every feature free. |
 | [whales](https://github.com/drkxbt/whales) | How Hyperliquid's top traders are positioned. Their open perp positions added up by coin, long against short, with entries and leverage, plus every large trade as it happens and any wallet's record. Live on drk.vc. Plain TypeScript, no dependencies. |
 | [sharps](https://github.com/drkxbt/sharps) | Where Polymarket's top traders have their money. The markets the best wallets are piling into and at what price, every large trade as it happens, and any wallet's record. Live on drk.vc. Plain TypeScript, no dependencies. |
 | [audiogram](https://github.com/drkxbt/audiogram) | Video clips from your Spaces, made in the browser. Pick the moment on the waveform, time the captions by tapping along, choose a look, and export an MP4 with no upload and no watermark. Plain TypeScript, no dependencies. |
