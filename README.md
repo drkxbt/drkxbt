@@ -22,13 +22,12 @@ The ten newest. Every repo, each with its own page, is on **[drk.vc/source →](
 | [whales](https://github.com/drkxbt/whales) | How Hyperliquid's top traders are positioned. Their open perp positions added up by coin, long against short, with entries and leverage, plus every large trade as it happens and any wallet's record. Live on drk.vc. Plain TypeScript, no dependencies. |
 | [sharps](https://github.com/drkxbt/sharps) | Where Polymarket's top traders have their money. The markets the best wallets are piling into and at what price, every large trade as it happens, and any wallet's record. Live on drk.vc. Plain TypeScript, no dependencies. |
 | [audiogram](https://github.com/drkxbt/audiogram) | Video clips from your Spaces, made in the browser. Pick the moment on the waveform, time the captions by tapping along, choose a look, and export an MP4 with no upload and no watermark. Plain TypeScript, no dependencies. |
-| [grid](https://github.com/drkxbt/grid) | A live table for markets. Thousands of rows that scroll smoothly while prices stream in and flash; sort, filter, pin and group columns, star a watchlist, and the rows hold still under the pointer. Plain TypeScript, no dependencies. |
 | [gantt](https://github.com/drkxbt/gantt) | A Gantt chart for websites. Drag, stretch and link tasks, and the work after them moves along; the critical path shows what sets the end date, and everything can be undone. Plain TypeScript, no dependencies. |
 | [photo](https://github.com/drkxbt/photo) | A photo editor for websites. Crop, turn, flip and straighten, adjust the light and colour, draw, write and hide parts of the picture, and undo any of it. Plain TypeScript, no dependencies. |
 | [palette](https://github.com/drkxbt/palette) | A command palette for websites. Ctrl or Cmd+K opens a search over pages, actions and things to copy; it finds by the first letters of words and ignores accents. Plain TypeScript, no dependencies. |
-| [sheet](https://github.com/drkxbt/sheet) | A bottom sheet for websites. It stops at its content's height or where you set, follows the finger, closes with a flick and stays above the keyboard. Plain TypeScript, no dependencies. |
 | [lightbox](https://github.com/drkxbt/lightbox) | An image viewer for websites. Pictures grow out of their thumbnails and fly back when closed; swipe between them, drag down to close, pinch to zoom. Plain TypeScript, no dependencies. |
 | [motion](https://github.com/drkxbt/motion) | Small animated details for websites: buttons, icons, components and loading states. Plain CSS and TypeScript, no dependencies. |
+| [charts](https://github.com/drkxbt/charts) | Four canvas charts for markets: candles, a price line, order book depth and a market heatmap. Each one imports on its own. Plain TypeScript, no dependencies. |
 
 ### Where things live
 
